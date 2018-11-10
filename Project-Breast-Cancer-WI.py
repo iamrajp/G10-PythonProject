@@ -52,6 +52,3 @@ correlation_matrix(bcancer)
 #3. Uniformity of Cell Size       1 - 10
 #4. Uniformity of Cell Shape      1 - 10
 #7. Bare Nuclei                   1 - 10
-
-from pandas.tools import plotting
-plotting.scatter_matrix(bcancer[['A3', 'A4', 'A7', 'CLASS']])

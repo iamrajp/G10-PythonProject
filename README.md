@@ -7,4 +7,4 @@ Authors:
 @Adam Paul Garofalo
 
 
-All three of us have worked over the screen share to complete the full assignment. In each module we were equally involved.
+All three of us have worked over the screen share to complete the full assignment. We were equally involved for phase 1

@@ -7,4 +7,4 @@ Authors:
 @Adam Paul Garofalo
 
 
-All three of us have worked over the screen share to complete the pahase1 of the project. We were equally involved for phase 1
+All three of us have worked over the screen share to complete the pahase1 of the project. We were equally involved for phase 1, phase 2 and phase 3

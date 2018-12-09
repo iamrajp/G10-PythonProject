@@ -1,6 +1,6 @@
 # G10-PythonProject
 
-Phase 1
+Phase 1, 2, and 3
 Authors:
 @Priyank Raj Sharma 
 @Rhonda Kay Fischer 
